@@ -1,13 +1,16 @@
 function setup (){
-createCanvas(800,800);
+createCanvas(windowWidth,windowHeight);
 }
 
 function draw (){
   background(255);
-  color('white')
+  fill(250, 177, 185);
   textSize(50);
-text('Resume', 200, 100);
+text('Gaby Vanegas', 600, 50);
+textSize(30);
+text('ProCoder #crazygal', 620,100);
+line(30, 20, 85, 20);
 
-  fill('coral')
-  square(300,10,29);
+
+
 }
