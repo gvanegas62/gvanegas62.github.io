@@ -1,11 +1,11 @@
 function setup (){
-createCanvas(400,400);
+createCanvas(800,800);
 }
 
 function draw (){
-  background(0);
-  color(255);
-text('Resume', 40, 20);
+  background(255);
+  color('white')
+text('Resume', 200, 100);
   fill('coral')
   square(300,10,29);
 }
