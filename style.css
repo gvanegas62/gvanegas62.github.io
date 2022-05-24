@@ -1,7 +1,15 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: pink;
 }
 canvas {
   display: block;
+}
+
+h2 {
+color: green;
+}
+h3 {
+color: blue;
 }
