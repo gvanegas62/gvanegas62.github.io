@@ -11,7 +11,7 @@ function draw (){
 noStroke();
 
   fill(35,78,196);
-rect( 400, 30, 560, 160);
+rect( 400, 30, 560, 100);
 
 
 
